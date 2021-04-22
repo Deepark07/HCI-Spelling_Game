@@ -7,7 +7,7 @@ By :
  
  Manas Reddy - PES1201801098
 
-Folder View:
+->Folder View:
 # HCI-Spelling_Game/Documents
 
 Contains documents related to
